@@ -2,5 +2,6 @@ This is the 2nd commit from git hub cloud.
 Here is the another change
 4rth chnage for check
 This changes is done only from local computer Okay!
+This update only check to commit occur when we will not get the update changes.
 
 
